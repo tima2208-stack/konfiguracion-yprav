@@ -1,3 +1,5 @@
+Zadanie #1
+
 cut -d: -f1 /etc/passwd | sort
 adm
 at
@@ -28,3 +30,14 @@ sync
 uucp
 vpopmail
 xfs
+
+Zadanie #2
+grep -E '^[^#]' /etc/protocols | sort -k2,2n | head -n 5
+ip      0       IP              # internet protocol, pseudo protocol number
+icmp    1       ICMP            # internet control message protocol
+igmp    2       IGMP            # Internet Group Management
+ggp     3       GGP             # gateway-gateway protocol
+ipencap 4       IP-ENCAP        # IP encapsulated in IP (officially ``IP'')
+
+Zadanie #3
+
