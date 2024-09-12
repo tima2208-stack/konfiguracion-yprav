@@ -7,3 +7,11 @@ task4
 
 task5
 <img width="530" alt="Снимок экрана 2024-09-12 в 14 39 32" src="https://github.com/user-attachments/assets/64814408-8e68-4be4-af0d-a51e4a346324">
+
+
+task6
+<img width="441" alt="Снимок экрана 2024-09-12 в 14 51 07" src="https://github.com/user-attachments/assets/9ea54302-826c-4e60-b8aa-f7678af7f510">
+
+
+testFile
+<img width="571" alt="Снимок экрана 2024-09-12 в 14 50 30" src="https://github.com/user-attachments/assets/a84b41f4-65cc-4e08-aa56-4749b50a001e">
