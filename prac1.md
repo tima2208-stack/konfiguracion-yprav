@@ -19,3 +19,9 @@ testFile
 
 task7
 <img width="394" alt="Снимок экрана 2024-09-12 в 15 22 44" src="https://github.com/user-attachments/assets/de75ca27-4a3e-4b8b-b202-171d7fe894cd">
+
+
+task8
+<img width="331" alt="Снимок экрана 2024-09-12 в 15 35 57" src="https://github.com/user-attachments/assets/8fe9c046-6dfd-4c9c-805c-a0257eca98bd">
+
+
