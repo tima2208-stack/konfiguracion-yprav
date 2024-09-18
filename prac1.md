@@ -25,3 +25,8 @@ task8
 <img width="331" alt="Снимок экрана 2024-09-12 в 15 35 57" src="https://github.com/user-attachments/assets/8fe9c046-6dfd-4c9c-805c-a0257eca98bd">
 
 
+
+
+task10
+
+<img width="598" alt="Снимок экрана 2024-09-18 в 18 40 54" src="https://github.com/user-attachments/assets/4e57c069-4858-4ed8-b1a8-1bfb3580e8a9">
