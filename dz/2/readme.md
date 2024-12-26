@@ -1,4 +1,4 @@
-<img width="1440" alt="Снимок экрана 2024-12-26 в 19 20 56" src="https://github.com/user-attachments/assets/6647b805-1580-457e-80e3-91a835390969" />
+    <img width="1440" alt="Снимок экрана 2024-12-26 в 19 20 56" src="https://github.com/user-attachments/assets/6647b805-1580-457e-80e3-91a835390969" />
 
 
 
